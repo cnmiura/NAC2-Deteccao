@@ -22,3 +22,4 @@ Fazer o desenvolvimento de um script em python que detecta a carta correta no v√
 
 * Aulas - Jupyter Notebook
 * https://docs.opencv.org/4.x/d4/dc6/tutorial_py_template_matching.html
+* https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html
