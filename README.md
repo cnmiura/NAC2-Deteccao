@@ -6,7 +6,7 @@
 
 **Ano:** 2022
 
-## Objetivo / descrição do Projeto
+## Objetivo
 Fazer o desenvolvimento de um script em python que detecta a carta correta no vídeo em tempo real. 
 
 
