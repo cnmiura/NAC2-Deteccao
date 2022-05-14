@@ -6,8 +6,8 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 
-temp = cv2.imread('img.png', 0) # carta maior
-temp2 = cv2.imread('img2.png', 0) # carta menor
+temp = cv2.imread("img.png", 0) # carta maior
+temp2 = cv2.imread("img2.png", 0) # carta menor
 
 face_width, face_height = temp.shape[::-1]
 face_width2, face_height2 = temp2.shape[::-1]
