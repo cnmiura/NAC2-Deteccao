@@ -1,4 +1,4 @@
-# NAC2-Deteccao
+# NAC2 - Detecção
 
 **Parte1 - Detecção de cartas**
 
