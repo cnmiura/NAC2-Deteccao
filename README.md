@@ -2,7 +2,7 @@
 
 **Parte1 - Detecção de cartas**
 
-**Nome da aluna:** Carolina Naomi
+**Nome:** Carolina Naomi
 
 **RM:** 83166
 
