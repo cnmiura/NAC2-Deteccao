@@ -2,7 +2,7 @@
 
 **Parte1 - Detecção de cartas**
 
-**Nome dos alunos:** Carolina Naomi
+**Nome da aluna:** Carolina Naomi
 
 **Turma:** 4SIS
 
