@@ -1,6 +1,6 @@
 # NAC2-Deteccao
 
-**nome dos alunos:** Carolina Naomi
+**Nome dos alunos:** Carolina Naomi
 
 **Turma:** 4SIS
 
