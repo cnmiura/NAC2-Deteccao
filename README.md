@@ -1,6 +1,6 @@
 # NAC2 - Detecção
 
-**Parte1 - Detecção de cartas**
+## **Parte1 - Detecção de cartas**
 
 **Nome da aluna:** Carolina Naomi
 
