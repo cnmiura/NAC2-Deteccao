@@ -1,5 +1,7 @@
 # NAC2-Deteccao
 
+**Parte1 - Detecção de cartas**
+
 **Nome dos alunos:** Carolina Naomi
 
 **Turma:** 4SIS
